@@ -23,3 +23,11 @@
   * Java102
   * NoSQL and Mongodb
 - Web Development Path with Java Backend Advanced - Patika.dev
+
+---
+## Languages
+- Turkish (Native)
+- English (C1)
+- Bulgarian (A2)
+
+---
