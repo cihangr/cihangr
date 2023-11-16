@@ -18,7 +18,7 @@
   * OOP
 - ✅Web Development Path with Java Backend Intermediate - Patika.dev
   * GIT Advanced
-  * Carier Steps
+  * Career Steps
   * SQL
   * Java102
   * NoSQL and Mongodb
