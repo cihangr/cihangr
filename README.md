@@ -9,20 +9,20 @@
 ## Cetificates
 - ✅Git and GitHub Essentials - AmigosCode
 - ✅Terminal, Bash and VIM Essentials - AmigosCode
-- ✅Web Development Path with Java Backend Basics - Patika.dev
+- ✅Web Development Path with Java Backend Basics
   * Coding Essentials
   * VS Code Usage
   * GIT
   * Data Types and Algorithms
   * Java101
   * OOP
-- ✅Web Development Path with Java Backend Intermediate - Patika.dev
+- ✅Web Development Path with Java Backend Intermediate
   * GIT Advanced
   * Career Steps
   * SQL
   * Java102
   * NoSQL and Mongodb
-- Web Development Path with Java Backend Advanced - Patika.dev
+- Web Development Path with Java Backend Advanced
 
 ---
 ## Languages
