@@ -7,6 +7,7 @@
 ![let’s code](https://github.com/cihangr/cihangr/assets/138358253/162936b3-9cb3-4746-a619-3b243ac81a61)
 ***
 ## Cetificates
+
 - ✅Git and GitHub Essentials - AmigosCode
 - ✅Terminal, Bash and VIM Essentials - AmigosCode
 - ✅Web Development Path with Java Backend Basics
@@ -26,11 +27,14 @@
 
 ---
 ## Languages
+
 - Turkish (Native)
 - English (C1)
 - Bulgarian (A2)
 
 ---
+
+## My Accounts:
 
 [Patika](https://academy.patika.dev/profile)
 
