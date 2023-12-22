@@ -32,6 +32,8 @@
 
 ---
 
-My Patika account [Patika](https://academy.patika.dev/profile)
-My Linkedin account [Linkedin](https://www.linkedin.com/in/cihangr/)
-My GitHub account [GitHub](https://github.com/cihangr)
+[Patika](https://academy.patika.dev/profile)
+
+[Linkedin](https://www.linkedin.com/in/cihangr/)
+
+[GitHub](https://github.com/cihangr)
