@@ -8,8 +8,8 @@
 
 ## Cetificates
 
-- ✅Git and GitHub Essentials - AmigosCode
-- ✅Terminal, Bash and VIM Essentials - AmigosCode
+- ✅Git and GitHub Essentials
+- ✅Terminal, Bash and VIM Essentials
 - ✅Web Development Path with Java Backend Basics
   * Coding Essentials
   * VS Code Usage
