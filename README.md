@@ -3,9 +3,9 @@
 > My name is Cihan. I am from Turkiye 🇹🇷 . I have studied Mechanical Engineering and also I have a passion to be coder.
 
 - 🌱 I’m currently learning JAVA
-***
+
 ![let’s code](https://github.com/cihangr/cihangr/assets/138358253/162936b3-9cb3-4746-a619-3b243ac81a61)
-***
+
 ## Cetificates
 
 - ✅Git and GitHub Essentials - AmigosCode
@@ -25,14 +25,11 @@
   * NoSQL and Mongodb
 - Web Development Path with Java Backend Advanced
 
----
 ## Languages
 
 - Turkish (Native)
 - English (C1)
 - Bulgarian (A2)
-
----
 
 ## My Accounts:
 
