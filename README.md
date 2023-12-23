@@ -32,8 +32,8 @@
 - Bulgarian (A2)
 
 ## My Accounts:
-[](https://www.linkedin.com/in/cihangr/)<img src="Linkedin_circle_black-512.png" width="30" height="30"> [](https://www.instagram.com/codemantis/)<img src="Instagram_logo_2022 Small.png" width="30" height="30"> [](https://github.com/cihangr)<img src="github-mark.png" width="30" height="30">
+[<img src="Linkedin_circle_black-512.png" width="30" height="30">](https://www.linkedin.com/in/cihangr/) [<img src="Instagram_logo_2022 Small.png" width="30" height="30">](https://www.instagram.com/codemantis/) [<img src="github-mark.png" width="30" height="30">](https://github.com/cihangr)
 
-[](https://academy.patika.dev/profile)<img src="patika.png" width="112" height="40">
+[<img src="patika.png" width="112" height="40">](https://academy.patika.dev/profile)
 
 [![](https://visitcount.itsvg.in/api?id=cihangr&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
