@@ -38,3 +38,5 @@
 [Linkedin](https://www.linkedin.com/in/cihangr/)
 
 [GitHub](https://github.com/cihangr)
+
+[![](https://visitcount.itsvg.in/api?id=cihangr&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
