@@ -25,13 +25,10 @@
   * NoSQL and Mongodb
 - Web Development Path with Java Backend Advanced
 
-## Languages
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihangr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 
-- Turkish (Native)
-- English (C1)
-- Bulgarian (A2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cihangr)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Accounts:
 [<img src="Linkedin_circle_black-512.png" width="30" height="30">](https://www.linkedin.com/in/cihangr/) [<img src="instablacklogo.png" width="30" height="30">](https://www.instagram.com/codemantis/) [<img src="github-mark.png" width="30" height="30">](https://github.com/cihangr)
 
 [<img src="patikablack.png" width="112" height="40">](https://academy.patika.dev/profile)
