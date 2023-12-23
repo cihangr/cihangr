@@ -32,7 +32,7 @@
 - Bulgarian (A2)
 
 ## My Accounts:
-![in](https://github.com/cihangr/PatikaJava101/assets/138358253/5b7fadce-60c4-415d-9fd0-71635c85bad8 =30x30)
+![in](Linkedin_circle_black-512.png =30x30)
 
 [Patika](https://academy.patika.dev/profile)
 
