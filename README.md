@@ -32,7 +32,7 @@
 - Bulgarian (A2)
 
 ## My Accounts:
-![in](Linkedin_circle_black-512.png =30x30)
+<img src="Linkedin_circle_black-512.png" width="30" height="30">
 
 [Patika](https://academy.patika.dev/profile)
 
