@@ -1,6 +1,6 @@
 # Hello World 🌎, 
 
-> My name is Cihan. I am from Turkiye 🇹🇷 . I have studied Mechanical Engineering and also I have a passion to be coder.
+My name is Cihan. I am from Turkiye. I am living in Bulgaria. I have passion to learning coding.
 
 - 🌱 I’m currently learning JAVA
 
