@@ -6,24 +6,8 @@
 
 ![let’s code](https://github.com/cihangr/cihangr/assets/138358253/162936b3-9cb3-4746-a619-3b243ac81a61)
 
-## Cetificates
-
-- ✅Git and GitHub Essentials
-- ✅Terminal, Bash and VIM Essentials
-- ✅Web Development Path with Java Backend Basics
-  * Coding Essentials
-  * VS Code Usage
-  * GIT
-  * Data Types and Algorithms
-  * Java101
-  * OOP
-- ✅Web Development Path with Java Backend Intermediate
-  * GIT Advanced
-  * Career Steps
-  * SQL
-  * Java102
-  * NoSQL and Mongodb
-- Web Development Path with Java Backend Advanced
+[<img src="javalogo.png" width="140" height="70">](https://academy.patika.dev/profile)
+[<img src="postgresLogo.svg.png" width="70" height="70">](https://academy.patika.dev/profile)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihangr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 
